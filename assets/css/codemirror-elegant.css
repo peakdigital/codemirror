@@ -1,10 +1,23 @@
-.cm-s-elegant span.cm-number, .cm-s-elegant span.cm-string, .cm-s-elegant span.cm-atom {color: #762;}
-.cm-s-elegant span.cm-comment {color: #262; font-style: italic; line-height: 140%;}
-.cm-s-elegant span.cm-meta {color: #555; font-style: italic; line-height: 140%;}
+.cm-s-elegant span.cm-keyword {color: #708;}
+.cm-s-elegant span.cm-atom {color: #7653c3;}
+.cm-s-elegant span.cm-number {color: #164;}
+.cm-s-elegant span.cm-def {color: #00f;}
 .cm-s-elegant span.cm-variable {color: black;}
-.cm-s-elegant span.cm-variable-2 {color: #b11;}
+.cm-s-elegant span.cm-variable-2 {color: #05a;}
+.cm-s-elegant span.cm-variable-3 {color: #085;}
+.cm-s-elegant span.cm-property {color: black;}
+.cm-s-elegant span.cm-operator {color: black;}
+.cm-s-elegant span.cm-comment {color: #b2b2b2;}
+.cm-s-elegant span.cm-string {color: #d4430d; }
+.cm-s-elegant span.cm-string-2 {color: #f50;}
+.cm-s-elegant span.cm-meta {color: #b2b2b2;}
+.cm-s-elegant span.cm-error {color: #f00;}
 .cm-s-elegant span.cm-qualifier {color: #555;}
-.cm-s-elegant span.cm-keyword {color: #730;}
 .cm-s-elegant span.cm-builtin {color: #30a;}
-.cm-s-elegant span.cm-error {background-color: #fdd;}
-.cm-s-elegant span.cm-link {color: #762;}
+.cm-s-elegant span.cm-bracket {color: #cc7;}
+.cm-s-elegant span.cm-tag {color: #2f6f9f;}
+.cm-s-elegant span.cm-attribute {color: #5a9fcf;}
+.cm-s-elegant span.cm-header {color: blue;}
+.cm-s-elegant span.cm-quote {color: #090;}
+.cm-s-elegant span.cm-hr {color: #999;}
+.cm-s-elegant span.cm-link {color: #00c;}
